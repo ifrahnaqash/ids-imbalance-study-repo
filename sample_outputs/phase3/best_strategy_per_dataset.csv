@@ -1,0 +1,7 @@
+dataset,strategy,macro_f1,mcc,note
+BoT-IoT,ClassWeight_RF,0.9806,0.9998,margin over ROS (0.9772) is within run-to-run noise; effectively tied
+CIC-IDS2017,ROS,0.8538,0.9947,margin over class-weighted variants is within run-to-run noise; effectively tied
+CICIoT2023,ClassWeight_XGB,0.5980,0.6539,
+NSL-KDD,ClassWeight_XGB,0.9324,0.9925,margin over ROS (0.9314) is within run-to-run noise; effectively tied
+ToN-IoT,ClassWeight_RF,0.9463,0.9656,no correction strategy meaningfully improves on baseline (0.9459); dataset already stable
+UNSW-NB15,ROS,0.6338,0.7467,margin over class-weighted variants is within run-to-run noise; effectively tied
