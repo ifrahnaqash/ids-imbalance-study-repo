@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or the accompanying findings, please cite the paper below."
+title: "Imbalance as a Dataset Quality Dimension: Evaluation Distortion and Design Principles for IDS Benchmark Datasets"
+authors:
+  - family-names: "Sanober"
+    given-names: "Ifrah"
+    affiliation: "National Institute of Technology Srinagar"
+  - family-names: "Mir"
+    given-names: "Roohie Naaz"
+    affiliation: "National Institute of Technology Srinagar"
+date-released: 2026
+repository-code: "https://github.com/ifrahnaqash/ids-imbalance-study-repo"
+license: MIT
+keywords:
+  - intrusion-detection
+  - class-imbalance
+  - dataset-quality
+  - network-security
+  - machine-learning
