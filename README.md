@@ -1,7 +1,6 @@
 # Imbalance as a Dataset Quality Dimension
 
-Code accompanying the paper *"Imbalance as a Dataset Quality Dimension: Evaluation
-Distortion and Design Principles for IDS Benchmark Datasets"* (Sanober & Mir).
+Code accompanying the paper *"Measuring Evaluation Reliability in Intrusion Detection Benchmarks: Class Imbalance as a Dataset Quality Dimension"* (Sanober & Mir).
 
 This repository treats class imbalance in network intrusion detection (IDS) benchmark
 datasets as a measurable dimension of dataset quality rather than a training-time
