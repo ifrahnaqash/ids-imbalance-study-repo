@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or the accompanying findings, please cite the paper below."
-title: "Imbalance as a Dataset Quality Dimension: Evaluation Distortion and Design Principles for IDS Benchmark Datasets"
+title: "Measuring Evaluation Reliability in Intrusion Detection Benchmarks: Class Imbalance as a Dataset Quality Dimension"
 authors:
   - family-names: "Sanober"
     given-names: "Ifrah"
